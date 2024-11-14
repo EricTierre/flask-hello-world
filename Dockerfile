@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir flask
 EXPOSE 7666
 
 # Run app.py when the container launches
-CMD ["python", "app.py"]
+CMD ["python", "hello.py"]
