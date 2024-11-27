@@ -1,4 +1,4 @@
-Flask Hello World application
+Flask Hello World application 
 =============================
 
 This is the Flask Hello World application shamelessly copied from
